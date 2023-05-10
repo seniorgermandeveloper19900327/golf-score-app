@@ -1,5 +1,5 @@
 # Golf With Friends
-**Developed by: Kyle Chung**
+**Developed by: Senior Developer**
 
 **Live site: https://golf-with-friends.herokuapp.com/**
 
